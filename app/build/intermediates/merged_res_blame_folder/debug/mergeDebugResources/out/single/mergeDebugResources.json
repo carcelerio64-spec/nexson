@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.carcelerio64.nexson.app-debug-44:/xml_backup_rules.xml.flat",
+        "source": "com.carcelerio64.nexson.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.carcelerio64.nexson.app-debug-44:/xml_data_extraction_rules.xml.flat",
+        "source": "com.carcelerio64.nexson.app-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.carcelerio64.nexson.app-debug-44:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.carcelerio64.nexson.app-main-46:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.carcelerio64.nexson.app-debug-44:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.carcelerio64.nexson.app-main-46:/mipmap-hdpi/ic_launcher_round.png"
+    }
+]
